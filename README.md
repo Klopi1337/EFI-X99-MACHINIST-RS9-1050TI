@@ -14,10 +14,9 @@
 | MotherBoard      | MACHINIST X99-RS9                                  |
 | Wifi             | Lan                                    |
 | OS Disk          | SSD NVMe hynix 3.0 256gb                         |
-| RAM              | 4x 8gb Asgard Valkyrie V5 32GB Ram                 |
+| RAM              | 3x 8gb micron ecc reg 24GB Ram                 |
 | GPU              | Nvidia gtx1050ti (4 GB)                           |
-| Cooler    	   | COOLER MASTER HYPER H412R                          |
-| OpenCore   	   | 0.9.9          		                        |
+| OpenCore   	   | 1.0.4          		                        |
 
 ## BIOS setup
 
